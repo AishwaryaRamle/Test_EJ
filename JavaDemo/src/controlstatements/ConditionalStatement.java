@@ -11,17 +11,26 @@ public class ConditionalStatement {
 		 * 
 		 *  I.Conditional Statement
 		 *  1.If
+		 * 
+		 *  if(condition)
+		 *  {
+		 *  statements; //will execute if condition is true
+		 *  }
+		 *  
+		 *  
+		 *  
 		 *  2.if else
+		 *  
+		 *  if(condition)
+		 *  {
+		 *  statements; //execute if condition is true
+		 *  }
+		 *  
 		 *  3.nested if else
 		 *  4.switch case
 		 *  
 		 *  
 		 *  
-		 *  
-		 *  if(condition)
-		 *  {
-		 *  statements; //will execute if condition is true
-		 *  }
 		*/
 	}
 
