@@ -13,7 +13,8 @@ public class SumOfDigits {
 			dig=dig/10;     //remove last digit
 			
 		}
-		System.out.println(sum);
+		
+		System.out.println("sum of Digit 12345 is "+sum);
 	}
 
 }
